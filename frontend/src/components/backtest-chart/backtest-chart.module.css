@@ -1,0 +1,26 @@
+.chartContainer {
+  width: 100%;
+  padding: 1rem;
+  background: #fafafa;
+  border-radius: 8px;
+}
+
+.tooltip {
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 0.75rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tooltipLabel {
+  font-size: 0.875rem;
+  color: #666;
+  margin-bottom: 0.25rem;
+}
+
+.tooltipValue {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #1a1a1a;
+}
